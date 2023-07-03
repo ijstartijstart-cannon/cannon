@@ -1,12 +1,13 @@
 # cannon
 <h2>ij.start.canon</h2>
-With a Canon IJ printer, you can get the best printing experience. Ij.start.canon is an official site that a Canon printer buyer can reach in order to set up his Canon printer. In order to begin the setup process for your printer through the official site, you can follow the steps below in the described way. Get started with the Canon printer setup process now.
+With a Canon IJ printer, you can get the best printing experience. <a href="https://github.com/ijstartijstart-cannon/cannon/">ij.start.canon</a> is an official site that a Canon printer buyer can reach in order to set up his Canon printer. In order to begin the setup process for your printer through the official site, you can follow the steps below in the described way. Get started with the Canon printer setup process now.
 
 <h2>What does ij.start.canon Offer?</h2>
 As a support site, ij.start.canon offers solutions to Canon printer error codes
 A Canon printer user can contact the support team for the resolution of any printer issues via mail at ij.start.canon.
 The site helps a user set up their Canon printer quickly.
-Canon Printer Wireless Setup Process for Windows via ij.start.canon.
+
+<h2>Canon Printer Wireless Setup Process for Windows via ij.start.canon.</h2>
 In order to successfully complete the printer setup process on your Windows PC, you can go through the step-by-step procedure.
 
 1. Head to ij.start.canon and download the Canon printer driver.
@@ -57,7 +58,7 @@ In order to download the Canon printer driver, you can go to the support site ij
 9. Clicking the Download button will initiate the downloading process.
 
 <h2>Canon Printer Driver Installation Process</h2>
-After downloading the ij.start.canon setup file on your computer, you can perform the installation process. Follow the steps:
+After downloading the <a href="https://github.com/ijstartijstart-cannon/cannon/">ij.start.canon setup</a> file on your computer, you can perform the installation process. Follow the steps:
 
 1. When you have downloaded the Canon setup file, locate it in the Downloads folder.
 
@@ -80,7 +81,7 @@ After downloading the ij.start.canon setup file on your computer, you can perfor
 <h2>How to Connect Canon IJ Printer via USB (Windows)</h2>
 Setting up a Canon IJ printer via USB is essential if you want to perform the printing tasks. Below is the accurate method to help you connect the Canon printer to Windows PC via USB. Follow the steps:
 
-1. First and foremost, reach https://ij.start.canon to download the Canon printer driver.
+1. First and foremost, reach <a href="https://github.com/ijstartijstart-cannon/cannon/">https://ij.start.canon</a> to download the Canon printer driver.
 
 2. After downloading the Canon printer driver, install the printer driver.
 
